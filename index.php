@@ -22,16 +22,17 @@
 		<!-- <meta charset="iso-8859-1" /> -->
 		<!-- <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> -->
 		
-		<meta name="description" content="Mümlingfischer" />
+		<meta name="description" content="M&uuml;mlingfischer" />
 		
 		<link href="style.css" type="text/css" rel="stylesheet" />
 		
-		<!-- [if gte IE 9] -->
+		<!--[if gte IE 9]>
 		<style type="text/css">
-			.gradient {
+			body {
 				filter: none;
 			}
 		</style>
+        <![endif]-->
 	</head>
 	
 	<body>

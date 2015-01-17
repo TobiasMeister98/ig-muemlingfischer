@@ -2,7 +2,7 @@
 
 <h1>Kontakt</h1>
 
-<br />
+<br>
 
 <div style="line-height: 150%">
 	<table>
